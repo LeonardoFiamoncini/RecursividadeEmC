@@ -1,5 +1,5 @@
 # RecursividadeEmC
-Exercícios elaborados através da aplicação do conceito de Recursividade na Linguagem de Programação C.
+Exercícios elaborados através da aplicação do conceito de Recursividade na Linguagem de Programação C. Para cada questão, há um arquivo correspondente.
 
 Questão 01) Implementar uma função recursiva para calcular o produto de dois números inteiros arbitrários usando
 apenas o operador de soma.
